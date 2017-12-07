@@ -28,6 +28,12 @@
 - 🌑 [Little Schemer](https://mitpress.mit.edu/books/little-schemer)
 - 🌑 [Structure and Interpretation of Computer Programs](https://mitpress.mit.edu/sicp/)
 
+## Functional
+
+- 🌑 [Grokking Functional Programming](https://www.manning.com/books/grokking-functional-programming)
+- 🌑 [Grokking Reactivex](https://www.manning.com/books/grokking-reactivex)
+- 🌘 [Functional Reactive Programming](https://www.amazon.co.uk/Functional-Reactive-Programming-Stephen-Blackheath/dp/1633430103)
+
 ## Compilers
 
 - 🌑 [Understanding Computation](http://computationbook.com/)
@@ -54,6 +60,7 @@
 - 🌑 [Programming Pearls](https://www.amazon.co.uk/Programming-Pearls-Joe-Bentley/dp/8177588583)
 - 🌑 [Pearls of Algorithm design](http://www.cambridge.org/gb/academic/subjects/computer-science/programming-languages-and-applied-logic/pearls-functional-algorithm-design?format=HB&isbn=9780521513388)
 - 🌑 [Purely Functional Data structures](https://www.amazon.co.uk/Purely-Functional-Data-Structures-Okasaki/dp/0521663504)
+- 🌑 [Grokking Algorithms] https://www.manning.com/books/grokking-algorithms
 
 ## Databases/Search
 
@@ -61,9 +68,9 @@
 
 ## Architecture, Software Quality
 
-- 🌑 [The Clean Architecture <sub>A Craftsman's Guide to Software Structure and Design</sub>]()
+- 🌗 [The Clean Architecture <sub>A Craftsman's Guide to Software Structure and Design</sub>]()
 - 🌑 [Continuous Integration](https://martinfowler.com/books/duvall.html)
-- 🌑 [Contionuos Delivery](https://www.amazon.com/Continuous-Delivery-Deployment-Automation-Addison-Wesley/dp/0321601912)
+- 🌗 [Contionuos Delivery](https://www.amazon.com/Continuous-Delivery-Deployment-Automation-Addison-Wesley/dp/0321601912)
 - 🌑 [Devops handbook](https://www.amazon.co.uk/Devops-Handbook-World-Class-Reliability-Organizations/dp/1942788002)
 - 🌑 [DevOps: <sub>A Software Architect's Perspective</sub>](https://www.amazon.com/dp/0134049845?ref=emc_b_5_i)
 
