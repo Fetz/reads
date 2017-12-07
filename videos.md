@@ -17,28 +17,28 @@
 
 ## React, Redux, Flux
 
-- 🌟 https://egghead.io/courses/getting-started-with-redux 
-- 🌟 https://egghead.io/courses/building-react-applications-with-idiomatic-redux
+- 🌟 [Getting started with Redux](https://egghead.io/courses/getting-started-with-redux)
+- 🌟 [Building React Applications with idiomatic redux](https://egghead.io/courses/building-react-applications-with-idiomatic-redux)
 
 ## Functional Programming
 
-- 🌑 https://frontendmasters.com/courses/functional-javascript-v2/
-- 🌕 https://frontendmasters.com/courses/functional-javascript/
-- 🌑 https://egghead.io/courses/professor-frisby-introduces-composable-functional-javascript
+- 🌑 [Hardcore functional programming](https://frontendmasters.com/courses/functional-javascript-v2/)
+- 🌕 [Functional Ligth](https://frontendmasters.com/courses/functional-javascript/)
+- 🌑 [Composable functional javascript<sub>Professor Frisby Introduces</sub>](https://egghead.io/courses/professor-frisby-introduces-composable-functional-javascript)
 
 ## Tools
 
-- 🌑 https://frontendmasters.com/courses/bash-vim-regex/
-- 🌑 https://frontendmasters.com/courses/full-stack/
-- 🌑 https://frontendmasters.com/courses/bash-vim-regex/
+- 🌑 [Full stack](https://frontendmasters.com/courses/full-stack/)
+- 🌑 [Bash Vim Regex](https://frontendmasters.com/courses/bash-vim-regex/)
 
 
 ## Algorithms
 
-- 🌑 https://frontendmasters.com/courses/data-structures-algorithms/
-- 🌑 https://frontendmasters.com/courses/computer-science/
+- 🌑 [Data Structures Algorithms](https://frontendmasters.com/courses/data-structures-algorithms/)
+- 🌑 [Computer Science](https://frontendmasters.com/courses/computer-science/)
+- 🌑 [Algorithms in Motion](https://www.manning.com/livevideo/algorithms-in-motion)
 
 
 ## Interviews
 
-- 🌑 https://bigmachine.io/products/mission-interview 
+- 🌑 [Mission Interview](https://bigmachine.io/products/mission-interview)

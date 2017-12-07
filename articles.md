@@ -9,5 +9,5 @@
 - 🌟 **Loved it**
 
 ## Functional Programming
-- [Mostly Adequate Guide](https://github.com/MostlyAdequate/mostly-adequate-guide)
-- [Functional programming jargon](https://github.com/hemanth/functional-programming-jargon)
+- 🌑 [Mostly Adequate Guide](https://github.com/MostlyAdequate/mostly-adequate-guide)
+- 🌑 [Functional programming jargon](https://github.com/hemanth/functional-programming-jargon)
