@@ -1,4 +1,4 @@
-# :school: A list of courses online I done or in my wishing list
+# :school: A list of courses online I done or in my wishing list
 
 ## Ratings
 
