@@ -128,6 +128,7 @@
 - 🌑 [Concrete Mathematics](http://www-cs-faculty.stanford.edu/~knuth/gkp.html)
 - 🌑 [Coding the Matrix](http://codingthematrix.com/)
 - 🌑 [From Mathematics to Generic Programming](http://www.fm2gp.com/)
+- 🌗 [Introduction to Graph Theory](http://store.doverpublications.com/0486678709.html)
 
 ## Personal Growth
 
