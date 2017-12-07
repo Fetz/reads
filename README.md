@@ -1,11 +1,11 @@
 # Reads
 
-> [:books: A list of books I read or in my wishing list](/books.md)
-> [:movie_camera: A list of video I watched or in my wishing list](/videos.md)
-> [:bookmark: A list of articles online I read or in my wishing list](/articles.md)
-> [:game_die: A list of coding challenges online](/challenges.md)
-> [:school: A list of courses online I done or in my wishing list](/courses.md)
-> [:school: A list of subscriptions online recommendations](/subscriptions.md)
+- [:books: A list of books I read or in my wishing list](/books.md)
+- [:movie_camera: A list of video I watched or in my wishing list](/videos.md)
+- [:bookmark: A list of articles online I read or in my wishing list](/articles.md)
+- [:game_die: A list of coding challenges online](/challenges.md)
+- [:school: A list of courses online I done or in my wishing list](/courses.md)
+- [:school: A list of subscriptions online recommendations](/subscriptions.md)
 
 ## Inspiration
 
