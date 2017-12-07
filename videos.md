@@ -31,13 +31,11 @@
 - 🌑 [Full stack](https://frontendmasters.com/courses/full-stack/)
 - 🌑 [Bash Vim Regex](https://frontendmasters.com/courses/bash-vim-regex/)
 
-
 ## Algorithms
 
 - 🌑 [Data Structures Algorithms](https://frontendmasters.com/courses/data-structures-algorithms/)
 - 🌑 [Computer Science](https://frontendmasters.com/courses/computer-science/)
 - 🌑 [Algorithms in Motion](https://www.manning.com/livevideo/algorithms-in-motion)
-
 
 ## Interviews
 
