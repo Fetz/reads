@@ -12,7 +12,7 @@
 - Keep track of books and other content online that I want to watch read
 - Receive book/video suggestions from other developers
 - Maybe help other developers with books or content recomendations
-- Use this as a "carrot and stick", to motivate myself
+- Use this as a [carrot and stick](https://en.wikipedia.org/wiki/Carrot_and_stick), to motivate myself
 
 ## Inspiration
 
