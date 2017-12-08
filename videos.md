@@ -26,10 +26,11 @@
 - 🌕 [Functional Ligth](https://frontendmasters.com/courses/functional-javascript/)
 - 🌑 [Composable functional javascript<sub>Professor Frisby Introduces</sub>](https://egghead.io/courses/professor-frisby-introduces-composable-functional-javascript)
 
-## Tools
+## Fullstack
 
 - 🌑 [Full stack](https://frontendmasters.com/courses/full-stack/)
 - 🌑 [Bash Vim Regex](https://frontendmasters.com/courses/bash-vim-regex/)
+- 🌑 [Build a 12 factor <sub>Node js app with docker</sub>](https://egghead.io/courses/build-a-twelve-factor-node-js-app-with-docker)
 
 ## Algorithms
 

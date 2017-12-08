@@ -11,3 +11,6 @@
 ## Functional Programming
 - 🌑 [Mostly Adequate Guide](https://github.com/MostlyAdequate/mostly-adequate-guide)
 - 🌑 [Functional programming jargon](https://github.com/hemanth/functional-programming-jargon)
+
+## Architecture
+- 🌟 [Twelve Factor App](https://12factor.net/)
