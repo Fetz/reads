@@ -60,7 +60,7 @@
 - 🌑 [Programming Pearls](https://www.amazon.co.uk/Programming-Pearls-Joe-Bentley/dp/8177588583)
 - 🌑 [Pearls of Algorithm design](http://www.cambridge.org/gb/academic/subjects/computer-science/programming-languages-and-applied-logic/pearls-functional-algorithm-design?format=HB&isbn=9780521513388)
 - 🌑 [Purely Functional Data structures](https://www.amazon.co.uk/Purely-Functional-Data-Structures-Okasaki/dp/0521663504)
-- 🌑 [Grokking Algorithms] https://www.manning.com/books/grokking-algorithms
+- 🌗 [Grokking Algorithms](https://www.manning.com/books/grokking-algorithms)
 
 ## Databases/Search
 
