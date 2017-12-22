@@ -31,7 +31,7 @@
 - 🌑 [Full stack](https://frontendmasters.com/courses/full-stack/)
 - 🌑 [Bash Vim Regex](https://frontendmasters.com/courses/bash-vim-regex/)
 - 🌕 [Build a 12 factor <sub>Node js app with docker</sub>](https://egghead.io/courses/build-a-twelve-factor-node-js-app-with-docker)
-> a bit short, and doesn't go in details, but is a good start
+  > a bit short, and doesn't go in details, but is a good start
 
 ## Algorithms
 
