@@ -8,6 +8,9 @@
 - 🌝 **Wouldn't recommend**
 - 🌟 **Loved it**
 
+# Computer Science
+
+- 🌘 https://github.com/ossu/computer-science
 
 # Algorithm
 
