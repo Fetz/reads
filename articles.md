@@ -14,3 +14,12 @@
 
 ## Architecture
 - 🌟 [Twelve Factor App](https://12factor.net/)
+
+## DemoScene
+- 🌑 [Teach Yourself Demoscene <sub>in 14 days</sub>](https://github.com/psenough/teach_yourself_demoscene_in_14_days)
+
+## Interview
+- 🌑 [Interview Questions](https://github.com/MaximAbramchuck/awesome-interview-questions)
+
+## Lists
+- [Awesome List](https://github.com/sindresorhus/awesome)
