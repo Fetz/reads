@@ -58,7 +58,7 @@
 - 🌑 [Elasticsearch <sub>The Definitive Guide</sub>](http://shop.oreilly.com/product/0636920028505.do)
 
 ## Architecture, Software Quality
-- 🌖 [The Clean Architecture <sub>A Craftsman's Guide to Software Structure and Design</sub>]()
+- 🌟 [The Clean Architecture <sub>A Craftsman's Guide to Software Structure and Design</sub>]()
 - 🌑 [Patterns of Enterprise Application Architecture](https://martinfowler.com/books/eaa.html)
 - 🌑 [Continuous Integration](https://martinfowler.com/books/duvall.html)
 - 🌗 [Contionuos Delivery](https://martinfowler.com/books/continuousDelivery.html)
