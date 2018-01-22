@@ -19,6 +19,7 @@
 - 🌗 [You don't know JS](https://github.com/getify/You-Dont-Know-JS)
 - 🌑 [Functional Light JS](https://github.com/getify/Functional-Light-JS)
 - 🌗 [Node.js Design Patterns](https://www.nodejsdesignpatterns.com/)
+- 🌑 [Javascript allonge 6](https://leanpub.com/javascriptallongesix/read)
 - 🌑 [Learn You a Haskell for Great Good! <sub>A Beginner's Guide</sub>](http://learnyouahaskell.com/)
 - 🌑 [The Art of UNIX Programming](http://www.catb.org/esr/writings/taoup/)
 - 🌑 [Code](https://www.amazon.co.uk/Code-Language-Computer-Hardware-Software/dp/0735611319)
