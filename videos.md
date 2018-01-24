@@ -22,8 +22,8 @@
 
 ## Functional Programming
 
-- 🌑 [Hardcore functional programming](https://frontendmasters.com/courses/functional-javascript-v2/)
-- 🌕 [Functional Ligth](https://frontendmasters.com/courses/functional-javascript/)
+- 🌕 [Hardcore functional programming](https://frontendmasters.com/courses/functional-javascript-v2/)
+- 🌑 [Functional Ligth](https://frontendmasters.com/courses/functional-javascript/)
 - 🌑 [Composable functional javascript<sub>Professor Frisby Introduces</sub>](https://egghead.io/courses/professor-frisby-introduces-composable-functional-javascript)
 
 ## Fullstack
