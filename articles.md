@@ -27,6 +27,7 @@
 ## Interview
 - 🌑 [Interview Questions](https://github.com/MaximAbramchuck/awesome-interview-questions)
 - 🌑 [Coding interview University](https://github.com/jwasham/coding-interview-university)
+- 🌑 [Technical Interview Megarepo](https://github.com/jdsutton/Technical-Interview-Megarepo)
 
 ## Lists
 - 🌑 [Awesome List](https://github.com/sindresorhus/awesome)
