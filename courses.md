@@ -11,9 +11,11 @@
 # Computer Science
 
 - 🌘 https://github.com/ossu/computer-science
+- 🌑 [KhanAcademy computer science](https://www.khanacademy.org/computing/computer-science)
 
 # Algorithm
 
+- 🌑 [KhanAcademy computer science/algorithms](https://www.khanacademy.org/computing/computer-science/algorithms)
 - 🌑 https://www.coursera.org/learn/algorithms-part1
 - 🌑 https://www.coursera.org/learn/algorithms-part2
 - 🌗 https://www.coursera.org/specializations/algorithms
