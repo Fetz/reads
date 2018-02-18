@@ -12,6 +12,9 @@
 - 🌑 [Mostly Adequate Guide](https://github.com/MostlyAdequate/mostly-adequate-guide)
 - 🌑 [Functional programming jargon](https://github.com/hemanth/functional-programming-jargon)
 
+## Reactive Programming
+- [The introduction to Reactive Programming you've been missing](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754)
+
 ## Computer Science
 - [Programmer Competency Matrix](http://sijinjoseph.com/programmer-competency-matrix/)
 
