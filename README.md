@@ -14,6 +14,14 @@
 - Maybe help other developers with books or content recomendations
 - Use this as a [carrot and stick](https://en.wikipedia.org/wiki/Carrot_and_stick), to motivate myself
 
+## Ratings/Progress
+
+- 🌑 Haven't read yet
+- 🌘 🌗 🌖 Reading progress
+- 🌕 Finished reading, liked it
+- 🌝 **Wouldn't recommend**
+- 🌟 **Loved it**
+
 ## Inspiration
 
 I got the inspiration from [Nicolás Bevacqua reads](https://github.com/bevacqua/reads).
@@ -25,11 +33,3 @@ You have content, or other way to contribute, please see [`CONTRIBUTING.md`](/CO
 ## License
 
 Is licensed under the The Unlicense, please see [`LICENSE`](/LICENSE) for more details.
-
-## Ratings
-
-- 🌑 Haven't read yet
-- 🌘 🌗 🌖 Reading progress
-- 🌕 Finished reading, liked it
-- 🌝 **Wouldn't recommend**
-- 🌟 **Loved it**
