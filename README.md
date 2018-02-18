@@ -20,7 +20,11 @@ I got the inspiration from [Nicolás Bevacqua reads](https://github.com/bevacqua
 
 ## Contribute
 
-If you have book recommendations for me, please [create a Pull Request](https://github.com/fetz/tech_reads/compare) adding a link at the end of [`inbox.md`](/inbox.md).
+You have content, or other way to contribute, please see [`CONTRIBUTING.md`](/CONTRIBUTING.md) for more details.
+
+## License
+
+Is licensed under the The Unlicense, please see [`LICENSE`](/LICENSE) for more details.
 
 ## Ratings
 
