@@ -16,7 +16,7 @@
 - 🌕 [Laws of simplicity](http://lawsofsimplicity.com/)
 
 ## Languages
-- 🌖 [You don't know JS](https://github.com/getify/You-Dont-Know-JS)
+- 🌟 [You don't know JS](https://github.com/getify/You-Dont-Know-JS)
 - 🌑 [Functional Light JS](https://github.com/getify/Functional-Light-JS)
 - 🌗 [Node.js Design Patterns](https://www.nodejsdesignpatterns.com/)
 - 🌑 [Javascript allonge 6](https://leanpub.com/javascriptallongesix/read)
