@@ -65,6 +65,7 @@
 - 🌗 [Continuous Delivery](https://martinfowler.com/books/continuousDelivery.html)
 - 🌑 [Devops handbook](https://www.amazon.co.uk/Devops-Handbook-World-Class-Reliability-Organizations/dp/1942788002)
 - 🌑 [DevOps: <sub>A Software Architect's Perspective</sub>](https://www.amazon.com/dp/0134049845?ref=emc_b_5_i)
+- 🌑 [Building Evolutionary Architectures](https://www.thoughtworks.com/books/building-evolutionary-architectures)
 
 ## Tools
 - 🌑 [Practical Vim](https://pragprog.com/book/dnvim2/practical-vim-second-edition)
@@ -82,6 +83,7 @@
 
 ## Agile
 - 🌑 [Learning Agile](http://shop.oreilly.com/product/0636920025849.do)
+- 🌑 [The Scrumban [R]Eveolution: <sub>Getting the Most Out of Agile, Scrum, and Lean Kanban</sub>](http://scrumbanrevolution.com/)
 
 ## Cross cutting
 - 🌗 [The Imposters Handbook <sub>A primer for self-taugth developers</sub>](https://bigmachine.io/products/the-imposters-handbook)
@@ -97,9 +99,12 @@
 ## Management
 - 🌑 [The Mythical Man-Month <sub>Essays on Software Engineering</sub>](https://www.amazon.co.uk/Mythical-Man-Month-Software-Engineering-Anniversary/dp/0201835959)
 - 🌟 [The Phoenix Project <sub>A Novel about IT, DevOps, and Helping Your Business Win</sub>](https://itrevolution.com/book/the-phoenix-project/)
+- 🌑 [The Toyota Kata: <sub>Managing People for Improvement, Adaptiveness and Superior Results</sub>](http://www-personal.umich.edu/~mrother/Homepage.html)
+- 🌑 [Kanban: <sub>Successful Evolutionary Change for your technology Business</sub>](https://www.amazon.co.uk/Kanban-Successful-Evolutionary-Technology-Business/dp/0984521402)
 
 ## Self management
 - 🌑 [Pomodoro Technique Illustrated](https://pragprog.com/book/snfocus/pomodoro-technique-illustrated)
+- 🌑 [Personal Kanban: <sub>Mapping Work | Navigating Life</sub>](http://personalkanban.com/pk/book/)
 
 ## Startups/Businesses
 - 🌗 [Hello startup](http://amzn.to/2Arpazw)
