@@ -96,7 +96,7 @@
 
 ## Management
 - 🌑 [The Mythical Man-Month <sub>Essays on Software Engineering</sub>](https://www.amazon.co.uk/Mythical-Man-Month-Software-Engineering-Anniversary/dp/0201835959)
-- 🌖 [The Phoenix Project <sub>A Novel about IT, DevOps, and Helping Your Business Win</sub>](https://itrevolution.com/book/the-phoenix-project/)
+- 🌟 [The Phoenix Project <sub>A Novel about IT, DevOps, and Helping Your Business Win</sub>](https://itrevolution.com/book/the-phoenix-project/)
 
 ## Self management
 - 🌑 [Pomodoro Technique Illustrated](https://pragprog.com/book/snfocus/pomodoro-technique-illustrated)
