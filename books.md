@@ -62,7 +62,7 @@
 - 🌟 [The Clean Architecture <sub>A Craftsman's Guide to Software Structure and Design</sub>]()
 - 🌑 [Patterns of Enterprise Application Architecture](https://martinfowler.com/books/eaa.html)
 - 🌑 [Continuous Integration](https://martinfowler.com/books/duvall.html)
-- 🌗 [Contionuos Delivery](https://martinfowler.com/books/continuousDelivery.html)
+- 🌗 [Continuous Delivery](https://martinfowler.com/books/continuousDelivery.html)
 - 🌑 [Devops handbook](https://www.amazon.co.uk/Devops-Handbook-World-Class-Reliability-Organizations/dp/1942788002)
 - 🌑 [DevOps: <sub>A Software Architect's Perspective</sub>](https://www.amazon.com/dp/0134049845?ref=emc_b_5_i)
 
