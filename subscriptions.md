@@ -2,9 +2,9 @@
 
 ## Ratings
 
-- 🌑 Haven't read yet
-- 🌘 🌗 🌖 Reading progress
-- 🌕 Finished reading, liked it
+- 🌑 Not using yet
+- 🌘 🌗 🌖 Trying
+- 🌕 Liked it
 - 🌝 **Wouldn't recommend**
 - 🌟 **Loved it**
 
@@ -16,15 +16,23 @@
 
 ### IT
 
-- [PluralSight](https://www.pluralsight.com/)
-- [EggHead](https://egghead.io/)
-- [Frontend Masters](https://frontendmasters.com/)
-- [Safari](https://www.safaribooksonline.com/)
+- 🌟 [Safari](https://www.safaribooksonline.com/)
+> Amazing collection of tech books and others, good value for the money
+but app (android) is only okay, is good that you can download a lot of books to read, but bit buggy
+- 🌘 [PluralSight](https://www.pluralsight.com/)
+- 🌗 [EggHead](https://egghead.io/)
+- 🌗 [Frontend Masters](https://frontendmasters.com/)
+- 🌑 [Linux Academy](https://linuxacademy.com/)
 
 ### General
 
-- [Kindle unlimited](https://www.amazon.co.uk/kindle-dbs/hz/signup)
+- 🌖 [Brilliant](https://brilliant.org)
+> Interesting courses and 
+- 🌟 [Khan academy](https://www.khanacademy.org/)
+> Is free (donations) a lot of general content (good to refresh mathematics).
+- 🌘 [Kindle unlimited](https://www.amazon.co.uk/kindle-dbs/hz/signup)
 - [Audible](https://www.audible.co.uk/)
+
 
 ### Interviews
 
@@ -32,9 +40,9 @@
 
 ## Courses
 
-- [Coursera](coursera.org)
-- [edX](https://www.edx.org)
-- [Udacity](https://www.udacity.com)
+- 🌘 [Coursera](coursera.org)
+- 🌘 [edX](https://www.edx.org)
+- 🌘 [Udacity](https://www.udacity.com)
 
 ## Youtube channels to follow:
 
