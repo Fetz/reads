@@ -30,3 +30,4 @@
 
 - 🌑 [Stanford - Machine Learning](https://www.coursera.org/learn/machine-learning)
 - 🌑 [Deeplearning.ai - Deep Learning](https://www.coursera.org/specializations/deep-learning)
+- 🌑 [Mathematics for Machine Learning<sub>Specialization</sub>](https://www.coursera.org/specializations/mathematics-machine-learning)
