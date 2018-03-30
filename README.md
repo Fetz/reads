@@ -6,21 +6,14 @@
 - [:game_die: A list of coding challenges online](/challenges.md)
 - [:school: A list of courses online I done or in my wishing list](/courses.md)
 - [:link: A list of subscriptions online](/subscriptions.md)
+- [:satellite: A list of tech that I'm currently using](/techRadar.md)
 
 ## Objectives
 
-- Keep track of books and other content online that I want to watch read
+- Keep track of books and other content online that I want to watch, read
 - Receive book/video suggestions from other developers
 - Maybe help other developers with books or content recomendations
 - Use this as a [carrot and stick](https://en.wikipedia.org/wiki/Carrot_and_stick), to motivate myself
-
-## Ratings/Progress
-
-- 🌑 Haven't read yet
-- 🌘 🌗 🌖 Reading progress
-- 🌕 Finished reading, liked it
-- 🌝 **Wouldn't recommend**
-- 🌟 **Loved it**
 
 ## Inspiration
 
