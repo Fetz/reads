@@ -4,6 +4,8 @@ Inspired by [Thoughtworks Tech Radar](https://www.thoughtworks.com/radar/).
 In this file I will record things that I'm using or that I want to use, or that I want to keep an Eye.
 This list by no means is complete, but is something that I will thrive for.
 
+Maybe when I have time I should create an automatically a google spreadsheet, so I can add to https://www.thoughtworks.com/radar/how-to-byor
+
 Ratings:
 - Adopt - Things that I'm using regularly
 - Trial - Things that I'm trying and experimenting
@@ -51,12 +53,12 @@ Ratings:
 - [EsLint](https://github.com/eslint/eslint)
 - [Prettier](https://github.com/prettier/prettier)
 
-### Trial
+### Trial (Languages, Framework & Libs)
 - [Semantic Release](https://github.com/semantic-release/semantic-release)
 - [Commitizen](https://github.com/commitizen/cz-cli)
 - [Lerna](https://github.com/lerna/lerna)
 
-### Assess
+### Assess (Languages, Framework & Libs)
 - [ReasonML](https://github.com/facebook/reason)
 - [Purescript](https://github.com/purescript/purescript)
 - [Elm](https://github.com/elm-lang/elm-platform)
