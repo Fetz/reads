@@ -11,7 +11,7 @@
 - 🌟 [Clean Code <sub>A Handbook of Agile Software Craftsmanship</sub>](http://amzn.to/2AKoLL8)
 - 🌟 [The Clean Coder <sub>A Code of Conduct for Professional Programmers</sub>](http://amzn.to/2zLE02u)
 - 🌘 [Refactoring: <sub>Improving the Design of Existing Code</sub>](https://martinfowler.com/books/refactoring.html)
-- 🌘 [Domain Driven Design<sub>Tackling Complexity in the hearth of Software</sub>](https://www.amazon.co.uk/Domain-Driven-Design-Tackling-Complexity-Software/dp/B001JDYE0O)
+- 🌗 [Domain Driven Design<sub>Tackling Complexity in the hearth of Software</sub>](https://www.amazon.co.uk/Domain-Driven-Design-Tackling-Complexity-Software/dp/B001JDYE0O)
 - 🌗 [Continuous Delivery](https://martinfowler.com/books/continuousDelivery.html)
 - 🌑 [Continuous Integration](https://martinfowler.com/books/duvall.html)
 - 🌑 [Implementing Domain Driven Design](https://www.amazon.co.uk/Implementing-Domain-Driven-Design-Vaughn-Vernon/dp/0321834577)
