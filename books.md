@@ -85,6 +85,7 @@
 
 ## Monitoring
 - 🌑 [Complete Web Monitoring](http://shop.oreilly.com/product/9780596155148.do)
+- 🌑 [Practical Monitoring](http://shop.oreilly.com/product/0636920050773.do)
 
 ## Compilers
 - 🌑 [Understanding Computation](http://computationbook.com/)
