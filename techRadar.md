@@ -57,6 +57,10 @@ Ratings:
 - [Semantic Release](https://github.com/semantic-release/semantic-release)
 - [Commitizen](https://github.com/commitizen/cz-cli)
 - [Lerna](https://github.com/lerna/lerna)
+- [Validate commit](https://github.com/willsoto/validate-commit)
+- [joi](https://github.com/hapijs/joi) 
+- [yup](https://github.com/jquense/yup)
+- [ajv](https://github.com/epoberezkin/ajv)
 
 ### Assess (Languages, Framework & Libs)
 - [ReasonML](https://github.com/facebook/reason)
