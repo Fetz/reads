@@ -30,9 +30,9 @@
 
 - 🌕 [Full stack - 1](https://frontendmasters.com/courses/full-stack/)
 - 🌕 [Full stack - 2](https://frontendmasters.com/courses/full-stack-v2/)
-  > If you don't have much experience, this is a good way to start, but beware of some errors or lack of detail in some of intructor explanations
+  > If you don't have much experience, this is a good way to start, but beware of some errors or lack of detail in some of intructor explanations
 - 🌕 [Zero to Production](https://frontendmasters.com/courses/production-node-aws/)
-  > If you don't have much experience with nodejs/javascript ecosystem then is a good way to start, but if you have them jump straight to the part of AWS Elastic Beanstalk
+  > If you don't have much experience with nodejs/javascript ecosystem then is a good way to start, but if you have them jump straight to the part of AWS Elastic Beanstalk
 - 🌑 [Bash Vim Regex](https://frontendmasters.com/courses/bash-vim-regex/)
 - 🌕 [Build a 12 factor <sub>Node js app with docker</sub>](https://egghead.io/courses/build-a-twelve-factor-node-js-app-with-docker)
   > a bit short, and doesn't go much in details, but is a good start
