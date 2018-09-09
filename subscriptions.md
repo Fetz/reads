@@ -22,7 +22,7 @@ but app (android) is only okay, is good that you can download a lot of books to 
 - 🌘 [PluralSight](https://www.pluralsight.com/)
 - 🌗 [EggHead](https://egghead.io/)
 - 🌗 [Frontend Masters](https://frontendmasters.com/)
-- 🌑 [Linux Academy](https://linuxacademy.com/)
+- 🌘 [Linux Academy](https://linuxacademy.com/)
 
 ### General
 
@@ -31,7 +31,10 @@ but app (android) is only okay, is good that you can download a lot of books to 
 - 🌟 [Khan academy](https://www.khanacademy.org/)
 > Is free (donations) a lot of general content (good to refresh mathematics).
 - 🌘 [Kindle unlimited](https://www.amazon.co.uk/kindle-dbs/hz/signup)
-- [Audible](https://www.audible.co.uk/)
+- 🌗 [Audible](https://www.audible.co.uk/)
+- 🌟 [Typingclub](https://www.typingclub.com/)
+> You can use it without paying, but will have ads and have some limitations
+> Depending how you think about it, can be a bit expensive, but as well there is a lot of work in these website 
 
 
 ### Interviews
