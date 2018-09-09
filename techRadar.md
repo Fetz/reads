@@ -35,6 +35,7 @@ Ratings:
 - [pwmetrics](https://github.com/paulirish/pwmetrics/)
 - [ngrok](https://ngrok.com/)
 - [ndb](https://github.com/GoogleChromeLabs/ndb)
+- [bundlephobia](https://github.com/pastelsky/bundlephobia)
 
 ### Assess (tools)
 - [Hyper](https://github.com/zeit/hyper)
