@@ -12,9 +12,9 @@ Ratings:
 - Assess - Things that I'm keeping an Eye and want to use it in a near future
 - Hold - Things that I'm not using anymore (normally I will remove it from the list only if is a good case to preserve it)
 
-## Tools
+## Misc Tools
 
-### Adopt (tools)
+### Adopt (misc tools)
 - [Git](https://git-scm.com)
 - [Yarn](https://github.com/yarnpkg/yarn)
 - [NPM](https://github.com/npm/npm)
@@ -26,20 +26,45 @@ Ratings:
 - [Zplug](https://github.com/zplug/zplug)
 - [Browsersync](https://www.browsersync.io/)
 
-### Trial (tools)
-- [Puppeteer](https://github.com/GoogleChrome/puppeteer)
+### Trial (misc tools)
 - [Lighthouse](https://github.com/GoogleChrome/lighthouse)
 - [DangerJS](https://github.com/danger/danger-js)
-- [Travis](https://travis-ci.org)
-- [CircleCI](https://circleci.com/)
 - [pwmetrics](https://github.com/paulirish/pwmetrics/)
 - [ngrok](https://ngrok.com/)
 - [ndb](https://github.com/GoogleChromeLabs/ndb)
 - [bundlephobia](https://github.com/pastelsky/bundlephobia)
+- [Alacritty](https://github.com/alacritty/alacritty)
+- [kitty](https://github.com/kovidgoyal/kitty)
 
 ### Assess (tools)
 - [Hyper](https://github.com/zeit/hyper)
+- [onivim](https://www.onivim.io/)
+
+## Load testing tools
+
+### Trial (load testing tools)
+- [k6](https://k6.io/)
+- [artillery](https://artillery.io/)
+
+## CI
+
+### Adopt (tools)
+- [CircleCI](https://circleci.com/)
+
+### Trial (tools)
+- [Travis](https://travis-ci.org)
+
+## Testing Tools
+
+### Adopt (Testing Tools)
+- [jest](https://jestjs.io/)
+- [Puppeteer](https://github.com/GoogleChrome/puppeteer)
+- [Enzyme](https://github.com/airbnb/enzyme)
+
+### Trial (Testing Tools)
+- [Playwright](https://github.com/microsoft/playwright)
 - [Cypress](https://github.com/cypress-io/cypress)
+- [Testing Library](https://testing-library.com/)
 
 ## Languages, Framework & Libs
 
@@ -49,8 +74,6 @@ Ratings:
 - [ExpressJS](https://github.com/expressjs/express)
 - [ReactJS](https://github.com/facebook/react)
 - [Redux](https://github.com/reactjs/redux)
-- [Jest](https://github.com/facebook/jest)
-- [Enzyme](https://github.com/airbnb/enzyme)
 - [PostCSS](https://github.com/postcss/postcss)
 - [Webpack](https://github.com/webpack/webpack)
 - [Husky](https://github.com/typicode/husky)
@@ -76,3 +99,24 @@ Ratings:
 - [ParcelJS](https://github.com/parcel-bundler/parcel)
 - [Rollup](https://github.com/rollup/rollup)
 - [Sveltejs](https://github.com/sveltejs/svelte)
+- [Vuejs](https://vuejs.org/)
+
+## Text Search DB
+
+### Adopt (Text Search DB)
+- [ElasticSearch](https://www.elastic.co/elasticsearch/)
+
+### Assess (Text Search DB)
+- [Solr](https://lucene.apache.org/solr/)
+
+## In-memory DB
+
+### Adopt (In-memory DB)
+- [redis](https://redis.io/)
+
+### Assess (In-memory DB)
+- [hazelcast](https://hazelcast.org/)
+
+
+ 
+
